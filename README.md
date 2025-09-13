@@ -90,4 +90,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Once both the client and server are running, you can open your browser to `http://localhost:3000` to use the application. Create posts, see the list of memories, and interact with them.
 
-## made with love !!! 
+## made with love with someone !!! 
