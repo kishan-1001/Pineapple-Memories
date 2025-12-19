@@ -1,5 +1,5 @@
 # MERN Memories Project
-
+will be made soon
 A simple full-stack MERN application that allows users to post interesting events that happened in their lives. This project serves as a practical example of building a full-stack application with the MERN (MongoDB, Express, React, Node.js) stack.
 
 ## Features
